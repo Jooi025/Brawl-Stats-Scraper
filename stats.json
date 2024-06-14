@@ -1,0 +1,1765 @@
+{
+    "Shelly": {
+        "Base": {
+            "Base health": "3700",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Buckshot": {
+            "Base damage per pellet": "300",
+            "Projectiles": "5",
+            "Range": "7.67 tiles",
+            "Spread": "30 deg.",
+            "Reload time": "1.5 sec.",
+            "Super charge per pellet": "+10.05%",
+            "Max. ammo": "3"
+        },
+        "Super: Super Shell": {
+            "Base damage per pellet": "320",
+            "Projectiles": "9",
+            "Range": "7.67 tiles",
+            "Spread": "50 deg.",
+            "Super charge per pellet": "+4.8%"
+        }
+    },
+    "Nita": {
+        "Base": {
+            "Base health": "4000",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Rupture": {
+            "Base damage": "960",
+            "Projectiles": "1",
+            "Range": "6 tiles",
+            "Reload time": "1.1 sec.",
+            "Super charge": "+20.4%",
+            "Max. ammo": "3"
+        },
+        "Super: Overbearing": {
+            "Range": "5 tiles",
+            "Spawns": "Bear"
+        },
+        "Bear": {
+            "Base health": "4000",
+            "Movement speed": "2.03 tiles per sec.",
+            "Base damage per hit": "400",
+            "Range": "2 tiles",
+            "Attack speed": "0.6 sec.",
+            "Super charge per hit": "+10%"
+        }
+    },
+    "Colt": {
+        "Base": {
+            "Base health": "2800",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Six-Shooters": {
+            "Base damage per bullet": "360",
+            "Projectiles": "6",
+            "Range": "9 tiles",
+            "Reload time": "1.4 sec.",
+            "Super charge per bullet": "+8.37%",
+            "Max. ammo": "3"
+        },
+        "Super: Bullet Storm": {
+            "Base damage per bullet": "320",
+            "Projectiles": "12",
+            "Range": "11 tiles",
+            "Super charge per bullet": "+6.96%"
+        }
+    },
+    "Bull": {
+        "Base": {
+            "Base health": "5000",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Double-Barrel": {
+            "Base damage per pellet": "440",
+            "Projectiles": "5",
+            "Range": "5.33 tiles",
+            "Spread": "45 deg.",
+            "Reload time": "1.6 sec.",
+            "Super charge per pellet": "+11%",
+            "Max. ammo": "3"
+        },
+        "Super: Bulldozer": {
+            "Base damage": "960",
+            "Range": "11 tiles",
+            "Movement speed (charge)": "6 tiles per sec.",
+            "Super charge": "+36%"
+        }
+    },
+    "Brock": {
+        "Base": {
+            "Base health": "2400",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Rockin' Rocket": {
+            "Base damage": "1160",
+            "Projectiles": "1",
+            "Range": "9 tiles",
+            "Reload time": "2.1 sec.",
+            "Super charge": "+20.01%",
+            "Max. ammo": "3"
+        },
+        "Super: Rocket Rain": {
+            "Base damage per rocket": "1040",
+            "Projectiles": "9",
+            "Range": "8.33 tiles",
+            "Spread": "80 deg.",
+            "Super charge per rocket": "+20.8%"
+        }
+    },
+    "El Primo": {
+        "Base": {
+            "Base health": "6000",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Fists of Fury": {
+            "Base damage per punch": "380",
+            "Projectiles": "4",
+            "Range": "3 tiles",
+            "Reload time": "0.8 sec.",
+            "Super charge per punch": "+8.46%",
+            "Max. ammo": "3"
+        },
+        "Super: Flying Elbow Drop": {
+            "Base damage": "960",
+            "Range": "9 tiles",
+            "Movement speed (charge)": "5.33 tiles per sec.",
+            "Super charge": "+30%"
+        }
+    },
+    "Barley": {
+        "Base": {
+            "Base health": "2400",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Undiluted": {
+            "Base damage per second": "800",
+            "Projectiles": "1",
+            "Range": "7.33 tiles",
+            "Reload time": "2 sec.",
+            "Super charge per second": "+18%",
+            "Max. ammo": "3"
+        },
+        "Super: Last Call": {
+            "Base damage per second": "800",
+            "Projectiles": "5",
+            "Range": "9.33 tiles",
+            "Spread": "37.5 deg.",
+            "Super charge per second": "+14.8%"
+        }
+    },
+    "Poco": {
+        "Base": {
+            "Base health": "3700",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Power Chord": {
+            "Base damage": "760",
+            "Projectiles": "4",
+            "Range": "7 tiles",
+            "Spread": "65 deg.",
+            "Reload time": "1.6 sec.",
+            "Super charge": "+20.9%",
+            "Max. ammo": "3"
+        },
+        "Super: Encore": {
+            "Base heal": "2100",
+            "Projectiles": "3",
+            "Range": "9.33 tiles",
+            "Spread": "65 deg."
+        }
+    },
+    "Rosa": {
+        "Base": {
+            "Base health": "5000",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Hands of Stone": {
+            "Base damage per punch": "460",
+            "Projectiles": "3",
+            "Range": "3.67 tiles",
+            "Spread": "65 deg.",
+            "Reload time": "1 sec.",
+            "Super charge per punch": "+8.63%",
+            "Max. ammo": "3"
+        },
+        "Super: Strong Stuff": {
+            "Duration": "3 sec."
+        }
+    },
+    "Jessie": {
+        "Base": {
+            "Base health": "3000",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Shock Rifle": {
+            "Base damage": "1060",
+            "Projectiles": "1",
+            "Max. bounces": "2",
+            "Range": "9 tiles",
+            "Reload time": "1.8 sec.",
+            "Super charge": "+16.7%",
+            "Max. ammo": "3"
+        },
+        "Super: Scrappy!": {
+            "Range": "5 tiles",
+            "Spawns": "Turret"
+        },
+        "Turret": {
+            "Base health": "3300",
+            "Base damage per bullet": "260",
+            "Range": "9 tiles",
+            "Attack speed": "0.3 sec.",
+            "Super charge per bullet": "+6.31%"
+        }
+    },
+    "Dynamike": {
+        "Base": {
+            "Base health": "2800",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Short Fuse": {
+            "Base damage per dynamite": "800",
+            "Projectiles": "2",
+            "Range": "7.33 tiles",
+            "Spread": "15 deg.",
+            "Reload time": "1.6 sec.",
+            "Super charge per dynamite": "+25%",
+            "Max. ammo": "3"
+        },
+        "Super: Big Barrel O' Boom": {
+            "Base damage": "2200",
+            "Projectiles": "1",
+            "Range": "7.33 tiles",
+            "Super charge": "+50.05%"
+        }
+    },
+    "Tick": {
+        "Base": {
+            "Base health": "2200",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Minimines": {
+            "Base damage per mine": "640",
+            "Projectiles": "3",
+            "Range": "8.67 tiles",
+            "Reload time": "2.4 sec.",
+            "Super charge per mine": "+17.6%",
+            "Max. ammo": "3"
+        },
+        "Super: Headfirst": {
+            "Range": "3.33 tiles",
+            "Spawns": "Head"
+        },
+        "Head": {
+            "Base health": "1600",
+            "Movement speed": "4 tiles per sec.",
+            "Base damage": "2000",
+            "Attack speed": "1 sec.",
+            "Super charge": "+35%"
+        }
+    },
+    "8-BIT": {
+        "Base": {
+            "Base health": "5000",
+            "Movement speed": "1.93 tiles per sec."
+        },
+        "Attack: Blaster Beams": {
+            "Base damage per beam": "320",
+            "Projectiles": "6",
+            "Range": "10 tiles",
+            "Spread": "9 deg.",
+            "Reload time": "1.5 sec.",
+            "Super charge per beam": "+8.48%",
+            "Max. ammo": "3"
+        },
+        "Super: Damage Booster": {
+            "Range": "5 tiles",
+            "Spawns": "Turret"
+        },
+        "Turret": {
+            "Base health": "2800",
+            "Damage boost": "35%",
+            "Range": "3.33 tiles"
+        }
+    },
+    "Rico": {
+        "Base": {
+            "Base health": "2800",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Bouncy Bullets": {
+            "Base damage per bullet": "320",
+            "Projectiles": "5",
+            "Range": "9.67 tiles",
+            "Spread": "7.5 deg.",
+            "Reload time": "1.2 sec.",
+            "Super charge per bullet": "+8.4%",
+            "Max. ammo": "3"
+        },
+        "Super: Trick Shot": {
+            "Base damage per bullet": "360",
+            "Projectiles": "12",
+            "Range": "13.33 tiles",
+            "Spread": "10 deg.",
+            "Super charge per bullet": "+9.45%"
+        }
+    },
+    "Darryl": {
+        "Base": {
+            "Base health": "5300",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Double Deuce": {
+            "Base damage per shell": "240",
+            "Projectiles": "10",
+            "Range": "6 tiles",
+            "Spread": "40 deg.",
+            "Reload time": "1.8 sec.",
+            "Super charge per shell": "+7.02%",
+            "Max. ammo": "3"
+        },
+        "Super: Barrel Roll": {
+            "Base damage": "400",
+            "Range": "7 tiles",
+            "Movement speed (charge)": "8 tiles per sec.",
+            "Super charge": "+12%"
+        },
+        "Trait": {
+            "Super charge per second": "+3.33%"
+        }
+    },
+    "Penny": {
+        "Base": {
+            "Base health": "3200",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Plunderbuss": {
+            "Base damage": "980",
+            "Projectiles": "1",
+            "Range": "8 tiles",
+            "Reload time": "2 sec.",
+            "Super charge": "+21.81%",
+            "Max. ammo": "3"
+        },
+        "Super: Old Lobber": {
+            "Range": "5 tiles",
+            "Spawns": "Cannon"
+        },
+        "Cannon": {
+            "Base health": "2800",
+            "Base damage": "1200",
+            "Range": "13.33 tiles",
+            "Attack speed": "3.5 sec.",
+            "Super charge": "+30%"
+        }
+    },
+    "Carl": {
+        "Base": {
+            "Base health": "4000",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Pickaxe": {
+            "Base damage on hit": "740",
+            "Projectiles": "1",
+            "Range": "8.33 tiles",
+            "Reload time": "0.5 sec.",
+            "Super charge on hit": "+17.58%",
+            "Max. ammo": "1"
+        },
+        "Super: Tailspin": {
+            "Base damage per swing": "500",
+            "Hits": "12",
+            "Range": "2.33 tiles",
+            "Movement speed (charge)": "9 tiles per sec.",
+            "Duration": "3 sec.",
+            "Super charge per swing": "+7.5%"
+        }
+    },
+    "Jacky": {
+        "Base": {
+            "Base health": "5000",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Groundbreaker": {
+            "Base damage": "1240",
+            "Projectiles": "1",
+            "Range": "3.33 tiles",
+            "Spread": "360 deg.",
+            "Reload time": "1.8 sec.",
+            "Super charge": "+25.42%",
+            "Max. ammo": "3"
+        },
+        "Super: Holey Moley!": {
+            "Damage reduction": "50%",
+            "Duration": "1 sec.",
+            "Pull range": "5 tiles"
+        }
+    },
+    "Gus": {
+        "Base": {
+            "Base health": "3200",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Loony Balloons": {
+            "Base damage": "1000",
+            "Base heal (Spirit heal)": "800",
+            "Projectiles": "1",
+            "Range": "9.33 tiles",
+            "Reload time": "1.5 sec.",
+            "Super charge": "+25%",
+            "Max. ammo": "3"
+        },
+        "Super: Spooky Boy": {
+            "Range": "9.33 tiles",
+            "Spawns": "Shield"
+        },
+        "Shield": {
+            "Base health": "2600"
+        }
+    },
+    "Bo": {
+        "Base": {
+            "Base health": "3600",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Eagle-Eyed": {
+            "Base damage per arrow": "640",
+            "Projectiles": "3",
+            "Range": "8.67 tiles",
+            "Spread": "15 deg.",
+            "Reload time": "1.7 sec.",
+            "Super charge per arrow": "+11.84%",
+            "Max. ammo": "3"
+        },
+        "Super: Catch a Fox": {
+            "Base damage per trap": "1440",
+            "Projectiles": "3",
+            "Range": "8.67 tiles",
+            "Super charge per trap": "+33.48%"
+        }
+    },
+    "Emz": {
+        "Base": {
+            "Base health": "3600",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Spray": {
+            "Base damage per half a second": "520",
+            "Projectiles": "5",
+            "Range": "6.67 tiles",
+            "Spread": "40 deg.",
+            "Reload time": "2 sec.",
+            "Super charge per half a second": "+11.18%",
+            "Max. ammo": "3"
+        },
+        "Super: Caustic Charisma": {
+            "Base damage per second": "240",
+            "Duration": "5 sec.",
+            "Cloud range": "5.67 tiles",
+            "Super charge per second": "+4.56%"
+        }
+    },
+    "Stu": {
+        "Base": {
+            "Base health": "2900",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Razzle Dazzle": {
+            "Base damage": "540",
+            "Projectiles": "2",
+            "Range": "7.67 tiles",
+            "Reload time": "1.5 sec.",
+            "Super charge": "+100%",
+            "Max. ammo": "3"
+        },
+        "Super: Nitro Boost": {
+            "Base damage": "800",
+            "Range": "2.33 tiles",
+            "Movement speed (charge)": "10 tiles per sec."
+        }
+    },
+    "Piper": {
+        "Base": {
+            "Base health": "2300",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Gunbrella": {
+            "Base damage at max range": "1700",
+            "Projectiles": "1",
+            "Range": "10 tiles",
+            "Reload time": "2.3 sec.",
+            "Super charge at max range": "+41.23%",
+            "Max. ammo": "3"
+        },
+        "Super: Poppin'": {
+            "Base damage per grenade": "900",
+            "Hits": "4",
+            "Range": "8.67 tiles",
+            "Movement speed (charge)": "5 tiles per sec.",
+            "Super charge per grenade": "+20.25%"
+        }
+    },
+    "Pam": {
+        "Base": {
+            "Base health": "4800",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Scrapstorm": {
+            "Base damage per bullet": "260",
+            "Projectiles": "9",
+            "Range": "9 tiles",
+            "Spread": "30 deg.",
+            "Reload time": "1.3 sec.",
+            "Super charge per bullet": "+6.83%",
+            "Max. ammo": "3"
+        },
+        "Super: Mama's Kiss": {
+            "Range": "5 tiles",
+            "Spawns": "Turret"
+        },
+        "Turret": {
+            "Base health": "2800",
+            "Base heal per second": "360",
+            "Range": "3.33 tiles"
+        }
+    },
+    "Frank": {
+        "Base": {
+            "Base health": "7000",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Hammer Hit": {
+            "Base damage": "1240",
+            "Projectiles": "4",
+            "Range": "6 tiles",
+            "Spread": "65 deg.",
+            "Reload time": "0.8 sec.",
+            "Super charge": "+37.2%",
+            "Max. ammo": "3"
+        },
+        "Super: Stunning Blow": {
+            "Base damage": "1240",
+            "Projectiles": "4",
+            "Range": "7 tiles",
+            "Spread": "65 deg.",
+            "Super charge": "+37.2%"
+        }
+    },
+    "Bibi": {
+        "Base": {
+            "Base health": "4800",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Three Strikes": {
+            "Base damage": "1400",
+            "Projectiles": "1",
+            "Range": "3.67 tiles",
+            "Spread": "150 deg.",
+            "Reload time": "0.8 sec.",
+            "Super charge": "+35%",
+            "Max. ammo": "3"
+        },
+        "Super: Spitball": {
+            "Base damage": "900",
+            "Projectiles": "1",
+            "Range": "40 tiles",
+            "Super charge": "+25.2%"
+        }
+    },
+    "Bea": {
+        "Base": {
+            "Base health": "2500",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Big Sting": {
+            "Base damage": "800",
+            "Base damage (Supercharged)": "2000",
+            "Projectiles": "1",
+            "Range": "10 tiles",
+            "Reload time": "0.9 sec.",
+            "Super charge": "+26%",
+            "Max. ammo": "1"
+        },
+        "Super: Iron Hive": {
+            "Base damage per drone": "100",
+            "Projectiles": "7",
+            "Range": "9 tiles",
+            "Spread": "15 deg.",
+            "Slow effect duration": "3 sec.",
+            "Super charge per drone": "+2.5%"
+        }
+    },
+    "Nani": {
+        "Base": {
+            "Base health": "2400",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Trigger-Nometry": {
+            "Base damage": "740",
+            "Projectiles": "3",
+            "Range": "8.67 tiles",
+            "Spread": "25 deg.",
+            "Reload time": "1.8 sec.",
+            "Super charge": "+18.5%",
+            "Max. ammo": "3"
+        },
+        "Super: Manual Override": {
+            "Range": "3.33 tiles",
+            "Spawns": "Peep"
+        },
+        "Peep": {
+            "Base damage": "1800",
+            "Super charge": "+22.5%"
+        }
+    },
+    "Edgar": {
+        "Base": {
+            "Base health": "3300",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Fight Club": {
+            "Base damage": "540",
+            "Projectiles": "2",
+            "Damage to health": "35%",
+            "Range": "2 tiles",
+            "Reload time": "0.7 sec.",
+            "Super charge": "+8.37%",
+            "Max. ammo": "3"
+        },
+        "Super: Vault": {
+            "Range": "6.67 tiles",
+            "Movement speed (charge)": "11.67 tiles per sec.",
+            "Movement speed (boost)": "3.4 tiles per sec."
+        },
+        "Trait": {
+            "Super charge per second": "+3.33%"
+        }
+    },
+    "Griff": {
+        "Base": {
+            "Base health": "3400",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Coin Toss": {
+            "Base damage per coin": "280",
+            "Projectiles": "9",
+            "Range": "8.33 tiles",
+            "Spread": "15 deg.",
+            "Reload time": "1.7 sec.",
+            "Super charge per coin": "+7%",
+            "Max. ammo": "3"
+        },
+        "Super: Cashback": {
+            "Base damage per note": "660",
+            "Projectiles": "5",
+            "Range": "9 tiles",
+            "Spread": "75 deg.",
+            "Super charge per note": "+15.18%"
+        }
+    },
+    "Grom": {
+        "Base": {
+            "Base health": "2800",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Bud Go Boom!": {
+            "Base damage": "1060",
+            "Projectiles": "4",
+            "Range": "7.67 tiles",
+            "Reload time": "2 sec.",
+            "Super charge": "+17.23%",
+            "Max. ammo": "3"
+        },
+        "Super: Grom Bomb": {
+            "Base damage": "1600",
+            "Projectiles": "4",
+            "Range": "8.33 tiles",
+            "Super charge": "+22%"
+        }
+    },
+    "Bonnie": {
+        "Base": {
+            "Base health": "4800",
+            "Movement speed": "2.07 tiles per sec."
+        },
+        "Attack: Loose Tooth": {
+            "Base damage": "1120",
+            "Projectiles": "1",
+            "Range": "9 tiles",
+            "Reload time": "1 sec.",
+            "Super charge": "+30.8%",
+            "Max. ammo": "1"
+        },
+        "Super: Star Launcher": {
+            "Range": "7.33 tiles",
+            "Spawns": "Bonnie (On Foot)"
+        },
+        "Bonnie (On Foot)": {
+            "Base health": "3000",
+            "Movement speed": "2.73 tiles per sec.",
+            "Base damage": "1000",
+            "Projectiles": "3",
+            "Range": "5 tiles",
+            "Spread": "20 deg.",
+            "Attack speed": "2 sec."
+        }
+    },
+    "Gale": {
+        "Base": {
+            "Base health": "3800",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Polar Vortex": {
+            "Base damage per snowball": "280",
+            "Projectiles": "6",
+            "Range": "8.33 tiles",
+            "Reload time": "1.2 sec.",
+            "Super charge per snowball": "+6.3%",
+            "Max. ammo": "3"
+        },
+        "Super: Gale Force!": {
+            "Base damage": "500",
+            "Projectiles": "1",
+            "Range": "10 tiles",
+            "Super charge": "+12.5%"
+        }
+    },
+    "Colette": {
+        "Base": {
+            "Base health": "3400",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Taxing Shot": {
+            "Damage": "37%",
+            "Base damage to special targets": "1000",
+            "Base minimum damage": "500",
+            "Projectiles": "1",
+            "Range": "8.67 tiles",
+            "Reload time": "1.6 sec.",
+            "Super charge": "+25%",
+            "Max. ammo": "3"
+        },
+        "Super: Time to Collect": {
+            "Damage": "20%",
+            "Base damage to special targets": "2000",
+            "Range": "11 tiles",
+            "Movement speed (charge)": "13.33 tiles per sec.",
+            "Super charge": "+50%"
+        }
+    },
+    "Belle": {
+        "Base": {
+            "Base health": "2600",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Shocker": {
+            "Base damage": "1040",
+            "Base damage (Chained)": "520",
+            "Projectiles": "1",
+            "Max. bounces": "3",
+            "Range": "10 tiles",
+            "Reload time": "1.4 sec.",
+            "Super charge": "+21.84%",
+            "Max. ammo": "3"
+        },
+        "Super: Spotter": {
+            "Base damage": "500",
+            "Projectiles": "1",
+            "Range": "10.67 tiles",
+            "Super charge": "+25%"
+        }
+    },
+    "Ash": {
+        "Base": {
+            "Base health": "5400",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Clean-Up": {
+            "Base damage": "800",
+            "Projectiles": "1",
+            "Range": "4.67 tiles",
+            "Reload time": "1.4 sec.",
+            "Super charge": "+16.8%",
+            "Max. ammo": "3"
+        },
+        "Super: Little Helpers": {
+            "Projectiles": "5",
+            "Range": "5 tiles",
+            "Spawns": "Rat"
+        },
+        "Rat": {
+            "Base health": "300",
+            "Movement speed": "4 tiles per sec.",
+            "Base damage": "300",
+            "Attack speed": "1 sec.",
+            "Super charge": "+3.75%"
+        }
+    },
+    "Lola": {
+        "Base": {
+            "Base health": "3800",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Diamond Eyes": {
+            "Base damage": "260",
+            "Projectiles": "6",
+            "Range": "9 tiles",
+            "Spread": "15 deg.",
+            "Reload time": "1.7 sec.",
+            "Super charge": "+6.76%",
+            "Max. ammo": "3"
+        },
+        "Super: Megalomaniac": {
+            "Range": "5 tiles",
+            "Spawns": "Ego"
+        },
+        "Ego": {
+            "Base health": "2000",
+            "Movement speed": "2.4 tiles per sec.",
+            "Base damage": "280",
+            "Range": "9 tiles",
+            "Super charge": "+3.5%"
+        }
+    },
+    "Sam": {
+        "Base": {
+            "Base health": "5400",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Heavy Haymakers": {
+            "Base damage": "800",
+            "Base damage (No Knuckle Busters)": "400",
+            "Projectiles": "2",
+            "Range": "3 tiles",
+            "Spread": "50 deg.",
+            "Spread (No Knuckle Busters)": "25 deg.",
+            "Reload time": "1.6 sec.",
+            "Reload time (No Knuckle Busters)": "0.9 sec.",
+            "Super charge": "+20%",
+            "Max. ammo": "3"
+        },
+        "Super: Knuckle Busters": {
+            "Base damage": "1400",
+            "Base damage (On Return)": "700",
+            "Projectiles": "1",
+            "Range": "8.67 tiles",
+            "Super charge": "+35%"
+        }
+    },
+    "Mandy": {
+        "Base": {
+            "Base health": "2800",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Candy Dispenser": {
+            "Base damage": "1300",
+            "Projectiles": "1",
+            "Range": "9 tiles",
+            "Reload time": "1.5 sec.",
+            "Super charge": "+21.13%",
+            "Max. ammo": "3",
+            "Extended range": "12 tiles"
+        },
+        "Super: Sugar Ray": {
+            "Base damage": "2500",
+            "Projectiles": "1",
+            "Range": "40 tiles",
+            "Super charge": "+50%"
+        }
+    },
+    "Maisie": {
+        "Base": {
+            "Base health": "3600",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Pressure Rocket": {
+            "Base damage per rocket": "1280",
+            "Projectiles": "1",
+            "Range": "8.67 tiles",
+            "Reload time": "1.5 sec.",
+            "Super charge per rocket": "+25.6%",
+            "Max. ammo": "3"
+        },
+        "Super: Shockwave": {
+            "Base damage": "1240",
+            "Projectiles": "1",
+            "Range": "3.33 tiles",
+            "Spread": "360 deg.",
+            "Super charge": "+34.72%"
+        }
+    },
+    "Hank": {
+        "Base": {
+            "Base health": "5400",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Balloon Blast": {
+            "Base damage": "2100",
+            "Projectiles": "1",
+            "Range": "3.33 tiles",
+            "Reload time": "0.25 sec.",
+            "Super charge": "+26.25%",
+            "Max. ammo": "1"
+        },
+        "Super: Fish Torpedoes": {
+            "Base damage": "1320",
+            "Projectiles": "6",
+            "Super charge": "+28.71%"
+        }
+    },
+    "Pearl": {
+        "Base": {
+            "Base health": "3900",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Hot Cookies": {
+            "Base damage": "260",
+            "Projectiles": "5",
+            "Range": "9 tiles",
+            "Spread": "20 deg.",
+            "Reload time": "1.5 sec.",
+            "Super charge": "+6.5%",
+            "Max. ammo": "3"
+        },
+        "Super: Let out Some Steam": {
+            "Base damage": "1550",
+            "Projectiles": "1",
+            "Range": "3.33 tiles",
+            "Spread": "360 deg.",
+            "Super charge": "+38.75%"
+        }
+    },
+    "Larry & Lawrie": {
+        "Base": {
+            "Base health": "3000",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Ticket Dispenser": {
+            "Base damage": "1400",
+            "Projectiles": "1",
+            "Range": "7.33 tiles",
+            "Reload time": "2.2 sec.",
+            "Super charge": "+25.2%",
+            "Max. ammo": "3"
+        },
+        "Super: Call for Backup": {
+            "Range": "5 tiles",
+            "Spawns": "Lawrie"
+        },
+        "Lawrie": {
+            "Base health": "3400",
+            "Movement speed": "2.57 tiles per sec.",
+            "Base damage": "300",
+            "Projectiles": "3",
+            "Range": "6.67 tiles",
+            "Spread": "12.5 deg.",
+            "Attack speed": "1.8 sec.",
+            "Super charge": "+7.5%"
+        }
+    },
+    "Angelo": {
+        "Base": {
+            "Base health": "3000",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Take Aim": {
+            "Base damage": "2200",
+            "Range": "10 tiles",
+            "Reload time": "0.1 sec.",
+            "Super charge": "+55%",
+            "Max. ammo": "1"
+        },
+        "Super: Welcome to the Swamp": {
+            "Base damage": "500",
+            "Duration": "8 sec.",
+            "Cloud range": "2 tiles",
+            "Super charge": "+12.5%"
+        }
+    },
+    "Mortis": {
+        "Base": {
+            "Base health": "3800",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Shovel Swing": {
+            "Base damage": "1000",
+            "Projectiles": "1",
+            "Range": "2.67 tiles",
+            "Reload time": "2.4 sec.",
+            "Super charge": "+21.25%",
+            "Max. ammo": "3"
+        },
+        "Super: Life Blood": {
+            "Base damage": "900",
+            "Projectiles": "1",
+            "Damage to health": "125%",
+            "Range": "10 tiles",
+            "Super charge": "+30.15%"
+        }
+    },
+    "Tara": {
+        "Base": {
+            "Base health": "3100",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Triple Tarot": {
+            "Base damage per card": "480",
+            "Projectiles": "3",
+            "Range": "8 tiles",
+            "Spread": "25 deg.",
+            "Reload time": "2 sec.",
+            "Super charge per card": "+9.24%",
+            "Max. ammo": "3"
+        },
+        "Super: Gravity": {
+            "Base damage": "800",
+            "Projectiles": "1",
+            "Range": "6.67 tiles",
+            "Super charge": "+18%"
+        }
+    },
+    "Gene": {
+        "Base": {
+            "Base health": "3600",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Smoke Blast": {
+            "Base damage": "1000",
+            "Projectiles": "1",
+            "Range": "5.67 tiles",
+            "Reload time": "2 sec.",
+            "Super charge": "+25%",
+            "Max. ammo": "3"
+        },
+        "Super: Magic Hand": {
+            "Projectiles": "1",
+            "Range": "7.67 tiles"
+        }
+    },
+    "Max": {
+        "Base": {
+            "Base health": "3300",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Faster Blaster": {
+            "Base damage per bullet": "320",
+            "Projectiles": "4",
+            "Range": "8.33 tiles",
+            "Spread": "15 deg.",
+            "Reload time": "1.3 sec.",
+            "Super charge per bullet": "+7.36%",
+            "Max. ammo": "4"
+        },
+        "Super: Let's Go!": {
+            "Movement speed (boost)": "3.73 tiles per sec.",
+            "Duration": "4 sec.",
+            "Boost range": "4 tiles"
+        }
+    },
+    "Mr. P": {
+        "Base": {
+            "Base health": "3400",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Your Suitcase, Sir!": {
+            "Base damage on hit": "760",
+            "Projectiles": "2",
+            "Range": "7 tiles",
+            "Reload time": "1.6 sec.",
+            "Super charge on hit": "+17.67%",
+            "Max. ammo": "3"
+        },
+        "Super: Porters! Attack!": {
+            "Range": "5 tiles",
+            "Spawns": "Home Base"
+        },
+        "Home Base": {
+            "Base health": "2500",
+            "Spawns": "Porter"
+        },
+        "Porter": {
+            "Base health": "1400",
+            "Movement speed": "3.33 tiles per sec.",
+            "Base damage per hit": "260",
+            "Range": "4.67 tiles",
+            "Attack speed": "0.7 sec.",
+            "Super charge per hit": "+5.59%"
+        }
+    },
+    "Sprout": {
+        "Base": {
+            "Base health": "3000",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Seed Bomb": {
+            "Base damage": "980",
+            "Projectiles": "1",
+            "Range": "5 tiles",
+            "Spread": "15 deg.",
+            "Reload time": "1.7 sec.",
+            "Super charge": "+23.03%",
+            "Max. ammo": "3"
+        },
+        "Super: Hedge": {
+            "Projectiles": "1",
+            "Range": "7.67 tiles"
+        }
+    },
+    "Byron": {
+        "Base": {
+            "Base health": "2400",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Careful Dose": {
+            "Base damage / heal per second": "380",
+            "Projectiles": "1",
+            "Range": "10 tiles",
+            "Reload time": "1.45 sec.",
+            "Super charge per second": "+16.63%",
+            "Max. ammo": "3"
+        },
+        "Super: Full Treatment": {
+            "Base damage / heal": "1500",
+            "Projectiles": "1",
+            "Range": "7.33 tiles",
+            "Super charge": "+24%"
+        }
+    },
+    "Squeak": {
+        "Base": {
+            "Base health": "3600",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Sticky Blomb": {
+            "Base damage": "1080",
+            "Projectiles": "1",
+            "Range": "7.67 tiles",
+            "Reload time": "2.1 sec.",
+            "Super charge": "+25.11%",
+            "Max. ammo": "3"
+        },
+        "Super: Big Blob": {
+            "Base damage": "1000",
+            "Projectiles": "6",
+            "Range": "8.33 tiles",
+            "Super charge": "+12.5%"
+        }
+    },
+    "Lou": {
+        "Base": {
+            "Base health": "3200",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Brain Freeze": {
+            "Base damage": "440",
+            "Projectiles": "3",
+            "Range": "9.33 tiles",
+            "Reload time": "1.3 sec.",
+            "Super charge": "+13.2%",
+            "Max. ammo": "3"
+        },
+        "Super: Can-Do": {
+            "Base damage per second": "40",
+            "Range": "7.67 tiles",
+            "Duration": "10 sec.",
+            "Slippery range": "3.67 tiles",
+            "Super charge per second": "+1%"
+        }
+    },
+    "Ruffs": {
+        "Base": {
+            "Base health": "2800",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Double-Barrel Laser": {
+            "Base damage per laser": "600",
+            "Projectiles": "2",
+            "Range": "9 tiles",
+            "Reload time": "1.4 sec.",
+            "Super charge per laser": "+15%",
+            "Max. ammo": "3"
+        },
+        "Super: Supply Drop": {
+            "Base damage": "1000",
+            "Projectiles": "1",
+            "Range": "7.67 tiles",
+            "Super charge": "+33.5%"
+        }
+    },
+    "Buzz": {
+        "Base": {
+            "Base health": "4800",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Buzz off": {
+            "Base damage": "420",
+            "Projectiles": "5",
+            "Range": "2.67 tiles",
+            "Spread": "100 deg.",
+            "Reload time": "1 sec.",
+            "Super charge": "+10.08%",
+            "Max. ammo": "3"
+        },
+        "Super: Torpedo Throw": {
+            "Projectiles": "1",
+            "Range": "10 tiles"
+        },
+        "Trait": {
+            "Range": "6 tiles",
+            "Super charge per second": "+6.67%"
+        }
+    },
+    "Fang": {
+        "Base": {
+            "Base health": "4300",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Wu-Shoe": {
+            "Base damage": "1360",
+            "Projectiles": "1",
+            "Range": "2.67 tiles",
+            "Reload time": "1 sec.",
+            "Super charge": "+25.5%",
+            "Max. ammo": "3"
+        },
+        "Super: Sneak Ahead": {
+            "Base damage": "1200",
+            "Range": "10 tiles",
+            "Movement speed (charge)": "13.33 tiles per sec.",
+            "Super charge": "+25.2%"
+        }
+    },
+    "Eve": {
+        "Base": {
+            "Base health": "2900",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Egg Shooter": {
+            "Base damage": "1560",
+            "Projectiles": "3",
+            "Range": "9.33 tiles",
+            "Reload time": "1.6 sec.",
+            "Super charge": "+46.8%",
+            "Max. ammo": "3"
+        },
+        "Super: Baby Boom": {
+            "Range": "5 tiles",
+            "Spawns": "Big Egg"
+        },
+        "Big Egg": {
+            "Base health": "2200",
+            "Spawns": "Hatchling"
+        },
+        "Hatchling": {
+            "Base health": "2000",
+            "Movement speed": "3.33 tiles per sec.",
+            "Base damage": "800",
+            "Super charge": "+10%"
+        }
+    },
+    "Janet": {
+        "Base": {
+            "Base health": "3200",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: High Note": {
+            "Base damage": "980",
+            "Projectiles": "1",
+            "Range": "4 tiles",
+            "Spread": "80 deg.",
+            "Reload time": "1.5 sec.",
+            "Super charge": "+17.15%",
+            "Max. ammo": "3"
+        },
+        "Super: Crescendo": {
+            "Base damage": "800",
+            "Hits": "7",
+            "Range": "2.33 tiles",
+            "Movement speed (charge)": "4.67 tiles per sec.",
+            "Super charge": "+16.8%"
+        }
+    },
+    "Otis": {
+        "Base": {
+            "Base health": "3200",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Inky Art": {
+            "Base damage": "460",
+            "Projectiles": "3",
+            "Range": "9 tiles",
+            "Spread": "11 deg.",
+            "Reload time": "1.5 sec.",
+            "Super charge": "+7.71%",
+            "Max. ammo": "3"
+        },
+        "Super: Silent Seabed": {
+            "Base damage per second": "340",
+            "Projectiles": "1",
+            "Range": "9 tiles",
+            "Duration": "3 sec.",
+            "Super charge per second": "+8.5%"
+        }
+    },
+    "Buster": {
+        "Base": {
+            "Base health": "5200",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Lens Flare": {
+            "Base damage": "1380",
+            "Projectiles": "1",
+            "Range": "5.33 tiles",
+            "Spread": "45 deg.",
+            "Reload time": "1.8 sec.",
+            "Super charge": "+34.5%",
+            "Max. ammo": "3"
+        },
+        "Super: Montage": {
+            "Base damage": "800",
+            "Projectiles": "1",
+            "Range": "3 tiles",
+            "Spread": "60 deg."
+        },
+        "Trait": {
+            "Range": "8.67 tiles",
+            "Super charge per second": "+5%"
+        }
+    },
+    "Gray": {
+        "Base": {
+            "Base health": "3300",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Finger Pistol": {
+            "Base damage": "1160",
+            "Projectiles": "1",
+            "Range": "9 tiles",
+            "Reload time": "1.4 sec.",
+            "Super charge": "+29%",
+            "Max. ammo": "3"
+        },
+        "Super: Dimensional Doors": {
+            "Projectiles": "1",
+            "Range": "6.67 tiles"
+        }
+    },
+    "R-T": {
+        "Base": {
+            "Base health": "3900",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Tap Target": {
+            "Base damage": "700",
+            "Projectiles": "1",
+            "Range": "10 tiles",
+            "Reload time": "1.5 sec.",
+            "Super charge": "+25.38%",
+            "Max. ammo": "3"
+        },
+        "Super: Hide and Seek": {
+            "Spawns": "R-T's head"
+        },
+        "R-T's head": {
+            "Base health": "4100",
+            "Movement speed": "1.93 tiles per sec.",
+            "Base damage": "1240",
+            "Projectiles": "1",
+            "Range": "3.33 tiles",
+            "Spread": "360 deg.",
+            "Reload time": "1.8 sec.",
+            "Super charge": "+31%",
+            "Max. ammo": "3"
+        }
+    },
+    "Willow": {
+        "Base": {
+            "Base health": "2800",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Lantern's Curse": {
+            "Base damage per shell": "1200",
+            "Projectiles": "1",
+            "Range": "7.33 tiles",
+            "Reload time": "2 sec.",
+            "Super charge per shell": "+25.5%",
+            "Max. ammo": "3"
+        },
+        "Super: Hex": {
+            "Range": "8.33 tiles",
+            "Duration": "4 sec."
+        }
+    },
+    "Doug": {
+        "Base": {
+            "Base health": "5000",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Snack Attack": {
+            "Base damage": "1200",
+            "Projectiles": "1",
+            "Range": "3.33 tiles",
+            "Reload time": "1.5 sec.",
+            "Super charge": "+21%",
+            "Max. ammo": "3",
+            "Heal": "600"
+        },
+        "Super: Second Serving": {
+            "Projectiles": "1",
+            "Range": "9.33 tiles"
+        }
+    },
+    "Chuck": {
+        "Base": {
+            "Base health": "4500",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Steam Engine": {
+            "Base damage": "540",
+            "Projectiles": "3",
+            "Range": "6.67 tiles",
+            "Reload time": "2 sec.",
+            "Super charge": "+13.5%",
+            "Max. ammo": "3"
+        },
+        "Super: Choo-Choo!": {
+            "Base damage": "1750",
+            "Range": "10 tiles",
+            "Movement speed (charge)": "12.33 tiles per sec.",
+            "Super charge": "+43.75%"
+        },
+        "Trait": {
+            "Super charge per second": "+20%"
+        }
+    },
+    "Charlie": {
+        "Base": {
+            "Base health": "3300",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Yo-Yo": {
+            "Base damage": "800",
+            "Projectiles": "1",
+            "Range": "8.33 tiles",
+            "Reload time": "2 sec.",
+            "Super charge": "+15%",
+            "Max. ammo": "1"
+        },
+        "Super: Cocoon": {
+            "Range": "9 tiles",
+            "Spawns": "Cocoon"
+        },
+        "Cocoon": {
+            "Base health": "4200"
+        }
+    },
+    "Mico": {
+        "Base": {
+            "Base health": "3000",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Mic Boom": {
+            "Base damage": "1090",
+            "Projectiles": "3",
+            "Range": "4 tiles",
+            "Reload time": "2.6 sec.",
+            "Super charge": "+20.71%",
+            "Max. ammo": "3"
+        },
+        "Super: Out of Frame": {
+            "Base damage": "1190",
+            "Movement speed (charge)": "3.42 tiles per sec.",
+            "Duration": "6 sec.",
+            "Super charge": "+14.88%"
+        }
+    },
+    "Melodie": {
+        "Base": {
+            "Base health": "4100",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Monster Notes": {
+            "Base damage": "460",
+            "Base damage (Orbiting Notes)": "920",
+            "Range": "8 tiles",
+            "Reload time": "1.5 sec.",
+            "Super charge": "+25.3%",
+            "Max. ammo": "3"
+        },
+        "Super: Catchy Chorus": {
+            "Hits": "3",
+            "Range": "5.33 tiles",
+            "Movement speed (charge)": "12.33 tiles per sec."
+        }
+    },
+    "Lily": {
+        "Base": {
+            "Base health": "4200",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Thorn in the Side": {
+            "Base damage": "1200",
+            "Range": "2 tiles",
+            "Reload time": "0.8 sec.",
+            "Super charge": "+28.8%",
+            "Max. ammo": "1"
+        },
+        "Super: Flourish": {
+            "Base damage": "1000",
+            "Projectiles": "1",
+            "Range": "9 tiles",
+            "Super charge": "+25%"
+        },
+        "Trait": {
+            "Range": "6 tiles",
+            "Super charge per second": "+10%"
+        }
+    },
+    "Spike": {
+        "Base": {
+            "Base health": "2400",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Needle Grenade": {
+            "Base damage per spike": "540",
+            "Projectiles": "6",
+            "Range": "7.67 tiles",
+            "Reload time": "2 sec.",
+            "Super charge per spike": "+14.31%",
+            "Max. ammo": "3"
+        },
+        "Super: Stick Around!": {
+            "Base damage per second": "400",
+            "Projectiles": "1",
+            "Range": "7.67 tiles",
+            "Super charge per second": "+12.5%"
+        }
+    },
+    "Crow": {
+        "Base": {
+            "Base health": "2400",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Switchblade": {
+            "Base damage per dagger": "320",
+            "Projectiles": "3",
+            "Healing Reduction": "40%",
+            "Range": "8.67 tiles",
+            "Spread": "22.5 deg.",
+            "Reload time": "1.4 sec.",
+            "Super charge per dagger": "+7.12%",
+            "Max. ammo": "3"
+        },
+        "Super: Swoop": {
+            "Base damage per dagger": "320",
+            "Hits": "28",
+            "Range": "8.67 tiles",
+            "Movement speed (charge)": "10 tiles per sec.",
+            "Super charge per dagger": "+6%"
+        }
+    },
+    "Leon": {
+        "Base": {
+            "Base health": "3400",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Spinner Blades": {
+            "Base damage per blade at min. range": "480",
+            "Projectiles": "4",
+            "Range": "9.67 tiles",
+            "Spread": "17.5 deg.",
+            "Reload time": "1.9 sec.",
+            "Super charge per blade at min. range": "+12.6%",
+            "Max. ammo": "3"
+        },
+        "Super: Smoke Bomb": {
+            "Duration": "6 sec."
+        }
+    },
+    "Sandy": {
+        "Base": {
+            "Base health": "3800",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Pebble Blast": {
+            "Base damage": "900",
+            "Projectiles": "3",
+            "Range": "6 tiles",
+            "Spread": "40 deg.",
+            "Reload time": "1.8 sec.",
+            "Super charge": "+16.88%",
+            "Max. ammo": "3"
+        },
+        "Super: Sandstorm": {
+            "Range": "7.33 tiles",
+            "Duration": "9 sec.",
+            "Sandstorm range": "6.67 tiles"
+        }
+    },
+    "Amber": {
+        "Base": {
+            "Base health": "3200",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Dragon's Breath": {
+            "Base damage per second": "2100",
+            "Range": "8.33 tiles",
+            "Spread": "15 deg.",
+            "Reload time": "0.22 sec.",
+            "Super charge per second": "+43.05%",
+            "Max. ammo": "40 (Continuous)"
+        },
+        "Super: Torch 'em!": {
+            "Base damage": "1920",
+            "Projectiles": "1",
+            "Range": "7.33 tiles",
+            "Super charge": "+25.44%"
+        }
+    },
+    "Meg": {
+        "Base": {
+            "Base health": "2300",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Target Acquired": {
+            "Base damage": "300",
+            "Projectiles": "2",
+            "Range": "9 tiles",
+            "Reload time": "1.3 sec.",
+            "Super charge": "+13.5%",
+            "Max. ammo": "3"
+        },
+        "Super: Mega Machina": {
+            "Spawns": "Mecha"
+        },
+        "Mecha": {
+            "Base health": "3700",
+            "Movement speed": "2.4 tiles per sec.",
+            "Base damage": "210",
+            "Projectiles": "8",
+            "Range": "9 tiles",
+            "Reload time": "1.5 sec.",
+            "Max. ammo": "3"
+        },
+        "Mecha Super": {
+            "Base damage": "1700",
+            "Range": "4.33 tiles",
+            "Spread": "150 deg.",
+            "Super charge": "+21.25%"
+        }
+    },
+    "Surge": {
+        "Base": {
+            "Base health": "3300",
+            "Movement speed": "2.17 tiles per sec."
+        },
+        "Attack: Juice of Justice": {
+            "Base damage": "1180",
+            "Projectiles": "1",
+            "Range": "6.67 tiles",
+            "Reload time": "2 sec.",
+            "Super charge": "+35.4%",
+            "Max. ammo": "3"
+        },
+        "Super: Party Tricks": {
+            "Base damage": "1000",
+            "Range": "3.33 tiles",
+            "Movement speed (charge)": "13.33 tiles per sec.",
+            "Super charge": "+17.5%"
+        }
+    },
+    "Chester": {
+        "Base": {
+            "Base health": "3700",
+            "Movement speed": "2.57 tiles per sec."
+        },
+        "Attack: Cap and Bells": {
+            "Base damage": "640",
+            "Projectiles": "3",
+            "Range": "8.33 tiles",
+            "Spread": "15 deg.",
+            "Reload time": "1.9 sec.",
+            "Super charge": "+16%",
+            "Max. ammo": "3"
+        },
+        "Super: Jack in the Box": {
+            "Candy Popper base damage": "1880",
+            "Candy Popper range": "6.33 tiles",
+            "Jawbreaker base damage": "200",
+            "Jawbreaker range": "8.67 tiles",
+            "Salmiakki base damage": "290",
+            "Salmiakki range": "5.67 tiles",
+            "Pop Rocks base damage": "160",
+            "Strong Mint base heal": "2400"
+        }
+    },
+    "Cordelius": {
+        "Base": {
+            "Base health": "3200",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Mushrooms": {
+            "Base damage": "700",
+            "Projectiles": "2",
+            "Range": "5.33 tiles",
+            "Reload time": "1.2 sec.",
+            "Super charge": "+15.75%",
+            "Max. ammo": "3"
+        },
+        "Super: This Is My Domain": {
+            "Projectiles": "1",
+            "Range": "9 tiles"
+        },
+        "Trait": {
+            "Range": "6 tiles",
+            "Super charge per second": "+6.67%"
+        }
+    },
+    "Kit": {
+        "Base": {
+            "Base health": "3000",
+            "Movement speed": "2.73 tiles per sec."
+        },
+        "Attack: Claws": {
+            "Base damage": "1000",
+            "Projectiles": "1",
+            "Range": "3.67 tiles",
+            "Spread": "75 deg.",
+            "Reload time": "0.8 sec.",
+            "Super charge": "+25%",
+            "Max. ammo": "3"
+        },
+        "Super: Carry Me": {
+            "Base damage": "1000",
+            "Projectiles": "1",
+            "Range": "6.67 tiles",
+            "Super charge": "+25%"
+        },
+        "Trait": {
+            "Super charge per second": "+5%"
+        }
+    },
+    "Draco": {
+        "Base": {
+            "Base health": "5500",
+            "Movement speed": "2.4 tiles per sec."
+        },
+        "Attack: Lance Stab": {
+            "Base damage at max range": "1400",
+            "Range": "4 tiles",
+            "Reload time": "1 sec.",
+            "Super charge at max range": "+35%",
+            "Max. ammo": "3"
+        },
+        "Super: Dragon Solo": {
+            "Base damage per second": "1280",
+            "Range": "5.67 tiles",
+            "Spread": "45 deg.",
+            "Movement speed": "20%",
+            "Damage reduction": "25%"
+        }
+    }
+}
