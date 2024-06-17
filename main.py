@@ -8,6 +8,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.common.exceptions import NoSuchElementException
 from time import sleep
 import json
+import pprint
 
 chrome_binary_path = "chrome-win64\chrome.exe"
 options = webdriver.ChromeOptions()
@@ -16,6 +17,7 @@ options.binary_location = chrome_binary_path
 
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 driver.get('https://pixelcrux.com/Brawl_Stars/Brawlers/#')
+pp = pprint.PrettyPrinter(depth=4)
 
 # click the "back to all brawlers" button
 def return_main_menu():
@@ -71,7 +73,7 @@ while True:
             tempDict[stats[j]] = stats[j+1]
         brawlerStat[title[i]] = tempDict
 
-    print(brawlerStat)
+    pp.pprint(brawlerStat)
     brawlersStats[brawlerName] = brawlerStat
     return_main_menu()
     count += 1
