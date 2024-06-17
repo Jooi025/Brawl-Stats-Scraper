@@ -17,9 +17,11 @@ options.binary_location = chrome_binary_path
 driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 driver.get('https://pixelcrux.com/Brawl_Stars/Brawlers/#')
 
+# click the "back to all brawlers" button
 def return_main_menu():
     driver.find_element(By.XPATH,"//a[normalize-space()='Back to All Brawlers']").click()
 
+# wait for the element to load
 def wait_loading(condition:tuple):
     timeout = 30
     try:
@@ -60,7 +62,7 @@ while True:
     allStats = [element.text for element in driver.find_elements(By.CLASS_NAME,"brawler-stat-list") if element.text]
     
     if not(len(title) == len(allStats)):
-        print("title and stats array not equal")
+        print("Note: The title and stats array not equal")
 
     for i in range(len(allStats)):
         tempDict = {}
@@ -75,6 +77,6 @@ while True:
     count += 1
 
 # write to json
-with open("stats.json", "w") as f:
+with open("raw_stats.json", "w") as f:
     jsonObject = json.dumps(brawlersStats, indent=4)
     f.write(jsonObject)
